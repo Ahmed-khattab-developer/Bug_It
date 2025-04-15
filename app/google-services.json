@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952081227292",
+    "project_id": "bugit-b87e5",
+    "storage_bucket": "bugit-b87e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952081227292:android:652b2fd1968118f85a49d9",
+        "android_client_info": {
+          "package_name": "com.example.bugit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGYFeNVTGuk2KoQngU1Rdxy4E7_vpEKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
